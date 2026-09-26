@@ -6,3 +6,7 @@ https://rahulshettyacademy.com/seleniumPractise/
 https://the-internet.herokuapp.com/dynamic_loading/1
 https://rahulshettyacademy.com/loginpagePractise/#
 https://rahulshettyacademy.com/seleniumPractise/#/offers
+
+API Testing
+https://simple-tool-rental-api.click
+https://github.com/vdespa/quick-introduction-to-postman/blob/main/simple-tool-rental-api.md#Status
